@@ -15,7 +15,12 @@ app.get("/",(req,res)=>{
 
 app.post("/",function(req,res){
 
-    console.log("data received on server");
+    let fname = req.body.fname;
+    let lname = req.body.lname;
+    let email = req.body.email;
+
+
+    console.log(fname,lname,email);
 
 })
 
