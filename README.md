@@ -1,4 +1,4 @@
-# signup-Newsletter
+# Signup-Newsletter
 This newsletter is a periodic publication distributed via email to a group of subscribers who have opted in to receive updates, information, and content from a specific organization, individual, or brand. Newsletters serve as a means of communication and engagement, allowing businesses, bloggers, content creators, and other entities to connect with their audience on a regular basis.
 
 The purpose of a newsletter varies depending on the sender's goals. It can include a range of content such as news updates, articles, blog posts, featured products or services, event announcements, exclusive offers, tips and tutorials, interviews, industry insights, and more. Newsletters often aim to provide value to subscribers by offering useful information, entertaining content, or personalized offers.
